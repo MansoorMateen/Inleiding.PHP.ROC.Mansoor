@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e56f5674-490a-4ce9-885a-67807b3d63bd" name="Default Changelist" comment="">
+    <list default="true" id="e56f5674-490a-4ce9-885a-67807b3d63bd" name="Default Changelist" comment="ok">
+      <change afterPath="$PROJECT_DIR$/H01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H02/zin3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H02/zin4.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/H02/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/H02/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H02/zin 2.php" beforeDir="false" afterPath="$PROJECT_DIR$/H02/zin2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H02/zin2.php" beforeDir="false" afterPath="$PROJECT_DIR$/H02/zin2.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +23,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/H01/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/H01/info.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/H02/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/H02/zin2.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/H01/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/H02/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/H02/zin3.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -37,9 +50,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/H02" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PHP\H02" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/H01/index.php">
@@ -59,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617016206176</updated>
-      <workItem from="1617016207579" duration="4620000" />
+      <workItem from="1617016207579" duration="8021000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1617040771490</created>
@@ -82,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617115176481</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ok">
+      <created>1617115332895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617115332895</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

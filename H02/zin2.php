@@ -1,9 +1,9 @@
 <?php
 
-$a= "Ik heb niet gefaald";
-$b= "die niet werken";
-$c= 10000;
+$a= "die geen fout";
+$b= "en";
+$c= "niet.";
 
-$volledigeZin = $a .". Ik heb alleen " . $c . " gevonden " .$b . "-Thomas Edison";
+$volledigeZin = "Mens" . $b ." ". $a . $b. " mak" .$b . ", werk" .$b ." ". $c. " -Albert Plesman (KLM)";
 
 echo $volledigeZin;
