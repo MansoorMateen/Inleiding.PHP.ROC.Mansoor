@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e56f5674-490a-4ce9-885a-67807b3d63bd" name="Default Changelist" comment="opdr3 begin">
-      <change afterPath="$PROJECT_DIR$/H01/hello.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H02/zin1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/fotos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/kerstboom.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H01/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H01/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/H01/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H02/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H02/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/H02/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/H03/index.php" afterDir="false" />
+    <list default="true" id="e56f5674-490a-4ce9-885a-67807b3d63bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1617016206176</updated>
       <workItem from="1617016207579" duration="8595000" />
-      <workItem from="1617124775943" duration="6920000" />
+      <workItem from="1617124775943" duration="6974000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1617040771490</created>
@@ -132,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617191379776</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="opdr3 begin">
+      <created>1617193274099</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617193274099</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
