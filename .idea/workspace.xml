@@ -4,20 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e56f5674-490a-4ce9-885a-67807b3d63bd" name="Default Changelist" comment="ok">
-      <change afterPath="$PROJECT_DIR$/H03/hondPHP/heart.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/hondPHP/hond1.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/hondPHP/hond10.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/hondPHP/hond2.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/hondPHP/hond3.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/hondPHP/hond4.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/hondPHP/hond5.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/hondPHP/hond6.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/hondPHP/hond7.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/hondPHP/hond8.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/hondPHP/hond9.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/index.php" afterDir="false" />
+    <list default="true" id="e56f5674-490a-4ce9-885a-67807b3d63bd" name="Default Changelist" comment="opdr3 begin">
+      <change afterPath="$PROJECT_DIR$/H01/hello.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H02/zin1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/fotos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H03/kerstboom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H01/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/H01/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H02/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/H02/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H03/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/H03/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +31,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/H01/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/H01/info.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/H02/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/H02/zin1.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/H02/zin2.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/H01/index.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/H02/index.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/H02/zin3.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -92,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1617016206176</updated>
       <workItem from="1617016207579" duration="8595000" />
-      <workItem from="1617124775943" duration="5002000" />
+      <workItem from="1617124775943" duration="6920000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1617040771490</created>
@@ -129,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617123967048</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="opdr3 begin">
+      <created>1617191379776</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617191379776</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +140,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+    <MESSAGE value="opdr3 begin" />
+    <option name="LAST_COMMIT_MESSAGE" value="opdr3 begin" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
