@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e56f5674-490a-4ce9-885a-67807b3d63bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/H03/Kapperszaak Sanders.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/busreis.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/hoopalee.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/roodgroenfotos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H03/zwemclubs.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/zwemmer.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H05/resultaat.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/fotos.php" beforeDir="false" afterPath="$PROJECT_DIR$/H03/fotos.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/hondPHP/heart.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hondPHP/heart.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/hondPHP/hond1.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/img/hondPHP/hond1.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/hondPHP/hond10.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/img/hondPHP/hond10.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/hondPHP/hond2.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/img/hondPHP/hond2.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/hondPHP/hond3.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/img/hondPHP/hond3.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/hondPHP/hond4.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/img/hondPHP/hond4.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/hondPHP/hond5.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/img/hondPHP/hond5.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/hondPHP/hond6.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/img/hondPHP/hond6.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/hondPHP/hond7.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/img/hondPHP/hond7.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/hondPHP/hond8.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/img/hondPHP/hond8.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/hondPHP/hond9.jfif" beforeDir="false" afterPath="$PROJECT_DIR$/img/hondPHP/hond9.jfif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H03/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/H03/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H04/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/H04/functions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/H04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/H05" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -73,6 +56,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PHP\H05" />
       <recent name="C:\wamp64\www\PHP\H04" />
       <recent name="C:\wamp64\www\PHP\H03\hondPHP" />
       <recent name="C:\wamp64\www\PHP\H03" />
@@ -108,7 +92,10 @@
       <workItem from="1617016207579" duration="8595000" />
       <workItem from="1617124775943" duration="12473000" />
       <workItem from="1617361045006" duration="14015000" />
-      <workItem from="1617793117626" duration="833000" />
+      <workItem from="1617793117626" duration="1655000" />
+      <workItem from="1617892007725" duration="3556000" />
+      <workItem from="1617898312091" duration="7782000" />
+      <workItem from="1618222297726" duration="6710000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1617040771490</created>
@@ -166,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617193339053</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="H04 af">
+      <created>1617793999111</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617793999111</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +169,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ok" />
     <MESSAGE value="opdr3 begin" />
-    <option name="LAST_COMMIT_MESSAGE" value="opdr3 begin" />
+    <MESSAGE value="H04 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="H04 af" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

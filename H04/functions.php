@@ -3,7 +3,7 @@ cNaarF(10);
 
 doorDrieDelen(4);
 
-omgekeert("waarom");
+echo omgekeert("warm");
 
     function cNaarF($a){
       $b=  $a * 9/5 + 32;
@@ -26,5 +26,5 @@ omgekeert("waarom");
     function omgekeert($e){
 
         $f = "".strrev($e)." ";
-        echo $f;
+        return $f;
     }
