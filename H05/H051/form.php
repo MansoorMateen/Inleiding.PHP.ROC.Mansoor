@@ -1,8 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
 <?php
 
 $naamErr = $adresErr = $emailErr = $wachtwoordErr = "";
 $naam = $adres = $email = $wachtwoord = "";
-
 
 if (empty($_POST["inlognaam"])){
     $naamErr = "inlognaam is nodig";
@@ -25,13 +31,25 @@ if (empty($_POST["wachtwoord"])){
     $wachtwoord = $_POST["wachtwoord"];
 }
 
+?>
 
-$veilig = array("inlognaam"=>$naam,"adres"=>$adres,"email"=>$email);
-$onveilig = array($naam,$adres,$email,$wachtwoord);
-$err = array("errnaam"=>$naamErr ,"erradres"=> $adresErr , "erremail"=>$emailErr ,"errwachtwoord"=>$wachtwoordErr);
+<form action="resultaat.php" method="post">
+    Inlognaam <input type="text" name="inlognaam" required>
+    <br><br>
+    Adres <input type="text" name="adres" required>
+    <br><br>
+    Email <input type="email" name="emailadres" required>
+    <br><br>
+    Wachtwoord <input  type="password" name="wachtwoord" required>
+    <br><br>
+    <input type="submit" name="knop" value="verstuur">
+</form>
 
 
-print_r($veilig);
-print_r($err);
 
 
+
+
+
+</body>
+</html>
