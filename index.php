@@ -14,6 +14,8 @@ echo "update 5.1";
 <a href="H03/index.php">HO3</a>
 <a href="H04/index.php">HO4</a>
 <a href="H05/index.php">HO5</a>
+<a href="H06/index.php">HO6</a>
+
 
 
 

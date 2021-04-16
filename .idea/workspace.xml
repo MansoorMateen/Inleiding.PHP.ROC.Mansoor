@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e56f5674-490a-4ce9-885a-67807b3d63bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/H05/H052/beasties.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/H052/resultaatbeasties.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/H053/login-Form-Resultaat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/H053/login-Form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/login-Form-Function-Resultaat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/login-Form-Function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H06/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H06/mysqlCursisten.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H05/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/H05/H051/form.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H05/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/H05/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H05/resultaat.php" beforeDir="false" afterPath="$PROJECT_DIR$/H05/H051/resultaat.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,10 +42,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/H05" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/H06" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -61,18 +55,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PHP\H06" />
       <recent name="C:\wamp64\www\PHP\H05" />
       <recent name="C:\wamp64\www\PHP\H04" />
       <recent name="C:\wamp64\www\PHP\H03\hondPHP" />
       <recent name="C:\wamp64\www\PHP\H03" />
-      <recent name="C:\wamp64\www\PHP\H02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PHP\H05\H054" />
       <recent name="C:\wamp64\www\PHP\H05" />
       <recent name="C:\wamp64\www\PHP\H05\H053" />
       <recent name="C:\wamp64\www\PHP\H05\H052" />
       <recent name="C:\wamp64\www\PHP\H05\H051" />
-      <recent name="C:\wamp64\www\PHP\img" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.Kapperszaak Sanders.php">
@@ -104,7 +98,7 @@
       <workItem from="1617892007725" duration="3556000" />
       <workItem from="1617898312091" duration="7782000" />
       <workItem from="1618222297726" duration="7021000" />
-      <workItem from="1618305095273" duration="17467000" />
+      <workItem from="1618305095273" duration="26044000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1617040771490</created>
@@ -176,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618304471892</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="H05 af">
+      <created>1618400918148</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618400918148</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +187,8 @@
     <MESSAGE value="ok" />
     <MESSAGE value="opdr3 begin" />
     <MESSAGE value="H04 af" />
-    <option name="LAST_COMMIT_MESSAGE" value="H04 af" />
+    <MESSAGE value="H05 af" />
+    <option name="LAST_COMMIT_MESSAGE" value="H05 af" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
