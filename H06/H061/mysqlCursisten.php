@@ -15,9 +15,9 @@
 <?php
 $host = 'localhost';
 $port = '3306';
-$user = 'root';
-$pass = '';
-$db = "school";
+$user = 'mansoorkhanprojecten_nl_school';
+$pass = '9FCeviVo6YdM';
+$db = "mansoorkhanprojecten_nl_school";
 
 
 try {

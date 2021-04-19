@@ -24,14 +24,13 @@ if (empty($_POST["wachtwoord"])){
 
 ?>
 
-<form action="login-Form-Function-Resultaat.php" method="post">
+<form action="login-form-sql-resultaat.php" method="post">
     Email <input type="email" name="emailadres" required>
     <br><br>
     Wachtwoord <input  type="password" name="wachtwoord" required>
     <br><br>
-
-    <?php
-emailcheck();
+    <?
+    emailcheck();
 
     ?>
 
