@@ -1,9 +1,9 @@
 <?php
 $host = 'localhost';
 $port = '3306';
-$user = 'root';
-$pass = '';
-$db = "school";
+$user = 'mansoorkhanprojecten_nl_loginformphp';
+$pass = 'DVjNMCFQjzU4';
+$db = "mansoorkhanprojecten_nl_loginformphp";
 
 
 

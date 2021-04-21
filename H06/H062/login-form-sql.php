@@ -29,11 +29,6 @@ if (empty($_POST["wachtwoord"])){
     <br><br>
     Wachtwoord <input  type="password" name="wachtwoord" required>
     <br><br>
-    <?
-    emailcheck();
-
-    ?>
-
     <input type="submit" name="knop" value="verstuur">
 </form>
 

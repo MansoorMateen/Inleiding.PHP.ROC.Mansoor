@@ -15,6 +15,10 @@ echo "update 5.1";
 <a href="H04/index.php">HO4</a>
 <a href="H05/index.php">HO5</a>
 <a href="H06/index.php">HO6</a>
+<a href="H065/vara.php">HO65</a>
+<a href="H07/login-cookies.php">HO7</a>
+
+
 
 
 
